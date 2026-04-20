@@ -37,4 +37,6 @@
   # IDEs
   
   .vscode/
-  .idea/
+  .idea/.venv/
+*.egg-info/
+.venv/
